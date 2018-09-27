@@ -1,0 +1,4 @@
+1. Wejscie z podci¹gniêciem do Vcc 
+
+Oznacza to ¿e na wejœcie podawana jest 1 logiczna
+
